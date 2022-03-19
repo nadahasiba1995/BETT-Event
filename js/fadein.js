@@ -1,4 +1,6 @@
 $(document).ready(function() {
+    $(this).scrollTop(0);
+
     $('#section-1').fadeIn('slow');
     /* Every time the window is scrolled ... */
     $(window).scroll( function(){
