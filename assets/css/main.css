@@ -40,10 +40,6 @@ font-family: 'PoppinsRegular' !important;
     display: flex;
   }
 
-  body{
-    max-width: 400px;
-   
-  }
 
   .bg-yellow{
    background-color: #e8c13e;
